@@ -7,8 +7,7 @@ module.exports = {
         'auto': 'auto',
         'cover': 'cover',
         'contain': 'contain',
-        'huy': '200%',
-        '200%': '200%'
+        'p200': '200%',
       },
 
       fontFamily: {
